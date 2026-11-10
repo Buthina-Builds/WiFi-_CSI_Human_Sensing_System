@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+csi_dataset/
+*.log
+.DS_Store
+Thumbs.db
+live_csi_dashboard_backup.py
+live_csi_dashboard_backup_before_speed.py.py
